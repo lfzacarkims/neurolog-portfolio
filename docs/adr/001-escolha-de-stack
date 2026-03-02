@@ -1,0 +1,41 @@
+# ADR 001 - Escolha da Stack
+
+## Status
+Aceito
+
+## Contexto
+O projeto precisava atender aos seguintes requisitos:
+- Desenvolvimento rápido
+- Baixo custo de infraestrutura
+- Facilidade de manutenção
+- Boa disponibilidade de documentação e comunidade
+
+Alternativas consideradas:
+- [Opção 1]
+- [Opção 2]
+- [Opção 3]
+
+## Decisão
+Foi escolhida a seguinte stack:
+- Frontend:
+- Backend:
+- Banco de dados:
+- Outras ferramentas relevantes:
+
+## Justificativa
+- Motivo 1
+- Motivo 2
+- Motivo 3
+
+## Consequências
+Positivas:
+- 
+- 
+
+Negativas:
+- 
+- 
+
+## Revisão futura
+A decisão será reavaliada caso:
+- 
